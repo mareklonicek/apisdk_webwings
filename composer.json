@@ -1,0 +1,15 @@
+{
+    "name": "marek/apisdk_webwings",
+    "autoload": {
+        "psr-4": {
+            "ApisdkWebwings\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marek Loníček",
+            "email": "mark.lonicek@seznam.cz"
+        }
+    ],
+    "require": {}
+}
